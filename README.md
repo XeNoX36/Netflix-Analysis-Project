@@ -36,7 +36,7 @@ This aligns with Netflix’s global expansion and increase in original content p
 The dataset indicates that the year with the highest number of releases is near the late 2010s.  
 
 A bar chart visualized year-wise counts, highlighting Netflix’s rapid content growth. 
-![]()
+![](https://github.com/XeNoX36/Netflix-Analysis-Project/blob/main/yearly%20netflix.png)
 
 
 **- Country-Specific Insights**  
